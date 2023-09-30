@@ -1,1 +1,1 @@
-"# gyakorlas_09.30" 
+gyakorlas_09.30" 
